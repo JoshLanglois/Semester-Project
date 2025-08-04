@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Biology - Cell Structure",
+    "subject": "Biology",
+    "uploader": "Jane",
+    "fileURL": "/sample-notes/cell-structure.pdf"
+  },
+  {
+    "id": 2,
+    "title": "History - Civil War",
+    "subject": "History",
+    "uploader": "Josh",
+    "fileURL": "/sample-notes/civil-war.pdf"
+  }
+]
